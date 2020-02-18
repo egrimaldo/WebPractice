@@ -1,1 +1,27 @@
+img {
+  max-width: 25%;
 
+}
+
+.colour {
+  background-color: blue;
+}
+body{
+  background-color: red;
+}
+
+h1 {
+  font-size: 7rem;
+  color: yellow;
+}
+
+div {
+  text-align: center;
+}
+h2{
+  color: purple;
+  background-color: yellow;
+  font-size: 7rem;
+  font-family: cursive;
+  padding-bottom: 50px;
+}
